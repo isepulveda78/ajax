@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Israel Sepulveda",
+        "company": "WebDev 102",
+        "number" : 9103641404
+    },
+    {
+        "id": 2,
+        "name": "Katie Hocevar",
+        "company": "Medical Office",
+        "number" : 9105551234
+    },
+    {
+        "id": 3,
+        "name": "Jessica Ringler",
+        "company": "School",
+        "number" : 9195551234
+    }
+]
